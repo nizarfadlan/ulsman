@@ -1,6 +1,5 @@
 import requests, xlwt, os, pyfiglet, time, sys
 from bs4 import BeautifulSoup
-from PIL import Image
 
 
 def clear():
